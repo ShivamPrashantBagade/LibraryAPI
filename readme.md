@@ -3,6 +3,9 @@
 ## Overview
 A dynamic and interactive web application for browsing, searching, and exploring books using the FreeAPI.app books API. This project demonstrates modern web development techniques with a focus on responsive design and user-friendly interactions.
 
+## 🌟 Live Link
+https://library-fastapi.netlify.app/
+
 ## 🌟 Features
 
 ### 1. Book Display
